@@ -1,6 +1,6 @@
 ~~~
 
-Criei esse script para aprender um pouco mais sobre o panda
+Criei esse script para aprender um pouco mais sobre o pandas
 e como analisar e manipular dados 
 
 ~~~
